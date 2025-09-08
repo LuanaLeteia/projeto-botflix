@@ -1,7 +1,7 @@
 # 🎬 BotFlix – Seu assistente pessoal para encontrar o filme perfeito
 
 
-O BotFlix é um assistente inteligente que ajuda você a encontrar o filme ideal baseado no seu humor ou no tipo de experiência que deseja ter.
+O BotFlix é um assistente inteligente que ajuda você a encontrar o filme ideal baseado no seu humor ou no tipo de experiência que deseja ter. 
 O projeto integra automação + inteligência artificial + API do TMDB, transformando sentimentos em recomendações personalizadas de filmes.
 
 ---
